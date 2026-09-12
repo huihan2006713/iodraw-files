@@ -60,6 +60,9 @@
         <mxCell id="jIbogmCGw-EBJSmgS8eo-25" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; color: rgb(69, 98, 148);&quot;&gt;&lt;b&gt;形成调度方案&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBF2FC;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="630" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jIbogmCGw-EBJSmgS8eo-26" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; color: rgb(69, 98, 148);&quot;&gt;&lt;b&gt;按照实际数据结算费用&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBF2FC;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="690" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
